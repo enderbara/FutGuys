@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://futguys.netlify.app/sitemap.xml
+Sitemap: https://futguys.pages.dev/sitemap.xml
